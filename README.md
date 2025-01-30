@@ -25,6 +25,7 @@ pip install aiogram
 [![2024-12-11-000856096.png](https://i.postimg.cc/RF3QYGgF/2024-12-11-000856096.png)](https://postimg.cc/WFvkFmLL)
 
 Теперь вы можете взаимодействовать с своим ботом и присылать сообщение от лица почты, которую вы указали в консоли:
+
 [![2024-12-11-001232383.png](https://i.postimg.cc/pL4dZZ5k/2024-12-11-001232383.png)](https://postimg.cc/qNc0B2LC)
 
 [![2024-12-11-001327094.png](https://i.postimg.cc/4yWfhbT6/2024-12-11-001327094.png)](https://postimg.cc/N2rq3XFF)
